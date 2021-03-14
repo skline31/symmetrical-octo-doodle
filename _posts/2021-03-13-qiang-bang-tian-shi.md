@@ -21,5 +21,3 @@ featured: true
 ![5](../assets/images/5.png)
 
 ![6](../assets/images/6.png)
-
-![7](../assets/images/7.png)
