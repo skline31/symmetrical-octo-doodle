@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "故事 · 恩扎古子：爱笑的棒球女孩"
-image: assets/images/3U7A9589.jpg
+image: assets/images/3U7A9589.jpeg
 featured: true
 ---
 
@@ -11,4 +11,4 @@ hi~姐姐你好，很高兴认识你
 我是恩扎古子，出生于2009.3.8，我是2020年9月加入强棒基地的。
 我的老家在四川凉山州，我是彝族，我活泼开朗，爱笑并且笑声成串，经常帮助小队员解决困难眼睛滴溜溜转动起来会说话。
 
-![IMG_5683](../assets/images/IMG_5683.jpg)  
+![IMG_5683](../assets/images/IMG_5683.jpeg)  
